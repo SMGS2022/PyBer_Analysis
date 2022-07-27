@@ -10,15 +10,35 @@ The intent of this challenge was to draw an easy to read visulaization, depictin
 
 ## Results
 
-In order to illustrate a clear visualization, I firest needed to break down the 
-- Total Rides
-- Total Drivers
-- Total Fares
-- Average Fare Per Ride 
-- Average Fare Per Driver
-- Total Fare by City Type
+In order to illustrate a clear visualization, I firest needed to break down the:
+
+- #### Total Rides
+
+![total_rides](/assets/total_rides.png)
+
+- #### Total Drivers
+
+![total_drivers](/assets/total_drivers.png)
+
+- #### Total Fares
+
+![total_fares](/assets/total_fares.png)
+
+- #### Average Fare Per Ride 
+
+![average_fares_ride](/assets/average_fares_ride.png)
+
+- #### Average Fare Per Driver
+
+![average_fares_driver](/assets/average_fares_driver.png)
+
+- #### Total Fare by City Type
+
+![total_fares_city_type](/assets/total_fares_city_type.png)
 
 #### Overall Vizualization 
+
+![overall](/assets/overall.png)
 
 ## Summary
 
